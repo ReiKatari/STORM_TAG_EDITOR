@@ -1,6 +1,9 @@
-<img width="133" height="133" alt="image" src="https://github.com/user-attachments/assets/ee56128e-c27e-4f22-a7bd-e1bbda92eeb4" />
+<div align="center">
+
+<img width="300" height="300" alt="Storm Tag Editor Logo" src="https://github.com/user-attachments/assets/f7a654c2-72cb-4ad0-afd0-e56a097ef443" />
 
 # STORM TAG EDITOR
+</div>
 
 ### 🇷🇺 Особенности программы (Russian)
 
