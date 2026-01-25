@@ -3,6 +3,7 @@
 <img width="300" height="300" alt="Storm Tag Editor Logo" src="https://github.com/user-attachments/assets/f7a654c2-72cb-4ad0-afd0-e56a097ef443" />
 
 # STORM TAG EDITOR
+
 </div>
 
 ### 🇷🇺 Особенности программы (Russian)
@@ -20,6 +21,10 @@
 11. **📊 Информация о качестве:** Отображение битрейта, частоты дискретизации и количества каналов.
 12. **🔄 Рекурсивное сканирование:** Автоматический поиск аудио файлов во вложенных папках.
 13. **🚀 Быстрый запуск:** Запуск без консольного окна через .bat файл.
+14. **🔄 Аудио Конвертер:** Быстрая конвертация файлов в MP3, WAV, FLAC, OGG, AAC с настройкой качества.
+15. **🌐 Мультиязычность:** Полная поддержка Русского и Английского интерфейса.
+16. **⚡ Авто-обновление:** Автоматическая проверка новых версий и обновление "в один клик".
+17. **🎨 Премиум UI:** Шрифт Century Gothic, цветные иконки смайликов, нативная иконка в панели задач Windows 11.
 
 ---
 
@@ -38,3 +43,7 @@
 11. **📊 Quality Info:** Display bitrate, sample rate, and channel information.
 12. **🔄 Recursive Scanning:** Automatic audio file search in nested folders.
 13. **🚀 Quick Launch:** Launch without console window via .bat file.
+14. **🔄 Audio Converter:** Fast file conversion to MP3, WAV, FLAC, OGG, AAC with quality settings.
+15. **🌐 Multilingual:** Full support for Russian and English interface.
+16. **⚡ Auto-Update:** Automatic version check and one-click update installation.
+17. **🎨 Premium UI:** Century Gothic font, colorful emoji icons, native Windows 11 taskbar icon support.
