@@ -24,7 +24,7 @@
 14. **🔄 Аудио Конвертер:** Быстрая конвертация файлов в MP3, WAV, FLAC, OGG, AAC с настройкой качества.
 15. **🌐 Мультиязычность:** Полная поддержка Русского и Английского интерфейса.
 16. **⚡ Авто-обновление:** Автоматическая проверка новых версий и обновление "в один клик".
-17. **🎨 Премиум UI:** Шрифт Century Gothic, цветные иконки смайликов, нативная иконка в панели задач Windows 11.
+17. **🎨 Премиум UI:** Шрифт Century Gothic, нативная иконка в панели задач Windows 11.
 
 ---
 
@@ -46,4 +46,4 @@
 14. **🔄 Audio Converter:** Fast file conversion to MP3, WAV, FLAC, OGG, AAC with quality settings.
 15. **🌐 Multilingual:** Full support for Russian and English interface.
 16. **⚡ Auto-Update:** Automatic version check and one-click update installation.
-17. **🎨 Premium UI:** Century Gothic font, colorful emoji icons, native Windows 11 taskbar icon support.
+17. **🎨 Premium UI:** Century Gothic font, native Windows 11 taskbar icon support.
