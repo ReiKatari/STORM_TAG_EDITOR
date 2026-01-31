@@ -4,6 +4,12 @@
 
 # STORM TAG EDITOR
 
+**Программа для редактирования тегов, конвертации аудио в различные форматы и качество, а также простого прослушивания**
+
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
+[![PyQt6](https://img.shields.io/badge/PyQt6-6.0+-green.svg)](https://pypi.org/project/PyQt6/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 </div>
 
 ### 🇷🇺 Особенности программы (Russian)
