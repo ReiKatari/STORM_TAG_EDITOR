@@ -5,7 +5,6 @@
 # STORM TAG EDITOR
 
 **Мощный аудио редактор тегов и конвертер с современным интерфейсом**
-**Powerful Audio Tag Editor & Converter with Modern UI**
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![PyQt6](https://img.shields.io/badge/PyQt6-6.0+-green.svg)](https://pypi.org/project/PyQt6/)
