@@ -57,3 +57,11 @@ installer/Output/
 *.tmp*
 *.wal
 
+
+# Audio files
+*.mp3
+*.flac
+*.wav
+*.ogg
+*.m4a
+*.aac
